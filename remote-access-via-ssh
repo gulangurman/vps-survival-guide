@@ -1,0 +1,2 @@
+#You can use ssh to securely connect to your server.
+ssh username@ip_addr:port
