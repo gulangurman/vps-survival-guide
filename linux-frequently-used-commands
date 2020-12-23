@@ -1,0 +1,27 @@
+#restart server
+sudo reboot
+
+#download updates
+sudo apt update
+
+#install updates
+sudo apt upgrade
+
+#list all processes
+ps aux
+
+#filter output
+grep x
+
+#create file
+touch myfile
+
+#edit file
+nano myfile
+
+#delete file
+rm myfile
+
+#delete folder and all its contents
+rm -rf myfolder
+
